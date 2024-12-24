@@ -1,0 +1,2 @@
+# vtmc
+video timing calculate
